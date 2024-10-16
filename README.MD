@@ -1,5 +1,6 @@
 > [!WARNING]  
 > Từ phiên bản 1.3.3, Aseprite đã bao gồm các bản dịch. Bản dịch này không còn cần thiết nữa.
+
 > Thông tin: Khởi động lại Aseprite để áp dụng tất cả các thay đổi một cách chính xác.
 
 <p align="center">
