@@ -1,8 +1,6 @@
-> [!WARNING]  
-> Từ phiên bản 1.3.3, Aseprite đã bao gồm các bản dịch. Bản dịch này không còn cần thiết nữa.
+# <img alt="Aseprite Vietnamese Translation Preview" src="images/vi.png" height="100px" width="auto"> Aseprite Vietnamese Translation [![Translation Status](https://hosted.weblate.org/widget/aseprite/aseprite/de/svg-badge.svg?native=1)](https://hosted.weblate.org/engage/aseprite/-/de/)
 
 <p align="center">
-  <img src="images/vi.png" />
   <br>
   <img src="images/title.png" />
 </p>
@@ -13,4 +11,5 @@
 * Mở tệp với Aseprite, và nó sẽ yêu cầu bạn cài đặt tiện ích mở rộng (lỗi của Aseprite, cửa sổ cài đặt không nên mở để popup hiển thị).
 * Đi tới Preferences > General > Language > Tiếng Việt
 
+> [!WARNING]  
 > Thông tin: Khởi động lại Aseprite để áp dụng tất cả các thay đổi một cách chính xác.
