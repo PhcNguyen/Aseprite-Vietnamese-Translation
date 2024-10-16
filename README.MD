@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="images/vi.gif" />
+  <img src="images/vi.png" />
   <br>
   <img src="images/title.png" />
 </p>
