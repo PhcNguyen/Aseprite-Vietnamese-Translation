@@ -1,0 +1,19 @@
+{
+    "name": "vietnamese-language",
+    "displayName": "Vietnamese Translation",
+    "description": "Translation to Vietnamese by PhcNguyen",
+    "version": "1.0.0",
+    "author": { "name": "PhcNguyen", "url": "https://github.com/PhcNguyen" },
+    "publisher": "PhcNguyen",
+    "license": "GNU",
+    "categories": ["Languages"],
+    "contributes": {
+      "languages": [
+        {
+          "id": "vn",
+          "path": "./vn.ini",
+          "displayName": "Vietnamese"
+        }
+      ]
+    }
+}
