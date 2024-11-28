@@ -1,4 +1,4 @@
-# <img alt="Aseprite Vietnamese Translation Preview" src="images/vi.png" height="100px" width="auto"> Aseprite Vietnamese Translation [![Translation Status](https://hosted.weblate.org/widget/aseprite/aseprite/de/svg-badge.svg?native=1)](https://hosted.weblate.org/engage/aseprite/-/de/)
+# <img alt="Aseprite Vietnamese Translation Preview" src="images/vi.png" height="100px" width="auto"> Aseprite Vietnamese Translation
 
 <p align="center">
   <br>
