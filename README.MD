@@ -11,5 +11,5 @@
 * Mở tệp với Aseprite, và nó sẽ yêu cầu bạn cài đặt tiện ích mở rộng (lỗi của Aseprite, cửa sổ cài đặt không nên mở để popup hiển thị).
 * Đi tới Preferences > General > Language > Tiếng Việt
 
-> [!WARNING]  
+> [!TIP]  
 > Thông tin: Khởi động lại Aseprite để áp dụng tất cả các thay đổi một cách chính xác.
